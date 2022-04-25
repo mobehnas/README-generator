@@ -10,6 +10,7 @@ AS A developer
 I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 ```
+### Link to Video : https://drive.google.com/file/d/1skoLbEqRMs3L4aHO1UGCYBDZI1CMMO1y/view
 
 # Table of Contents
 [Installation](#installation)
